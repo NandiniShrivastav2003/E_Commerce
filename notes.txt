@@ -1,0 +1,6 @@
+1.one to one relationship
+2.one to many relationship
+(ex- 1 user can have multiple addresses)
+ex- 1 post can have multiple comments
+3.Many to one-ex-multiple actors can workin one film
+4.many to many -

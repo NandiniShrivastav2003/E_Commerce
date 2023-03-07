@@ -20,7 +20,8 @@ app.use(methodOverride('_method'));
 
 
 const productRoutes = require('./routes/product');
-
+const reviewRoutes=require('./routes/review');
+app.use(reviewRoutes);
 
 
 
